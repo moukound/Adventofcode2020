@@ -11,7 +11,6 @@ for i in (range(len_expense)):
         sum_now = x+y
         print(sum_now)
         if (sum_now == 2020.0):
-            print('answer found')
             product = x*y
             print(product)
         break
